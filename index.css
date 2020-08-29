@@ -1,0 +1,26 @@
+.div1 {
+    width: 150px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 30px;
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 30px;
+}
+
+.custom-heading {
+    background-color: aqua;
+    font-size: 80px
+}
+
+.container {
+    padding: 30px
+}
+
+body {
+    filter: blur(2px)
+}
